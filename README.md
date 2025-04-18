@@ -1,4 +1,3 @@
-# Clustering-Techniques
 # Wine Quality Clustering Analysis
 
 A comprehensive comparative performance study of various clustering algorithms using different preprocessing techniques on the Wine Quality dataset from the UCI Machine Learning Repository.
