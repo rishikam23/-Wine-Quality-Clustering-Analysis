@@ -13,7 +13,7 @@ To analyze and compare the effectiveness of multiple clustering algorithms on th
 ---
 
 ## Dataset
-- **Source**: [UCI Machine Learning Repository - Wine Quality]([https://archive.ics.uci.edu/ml/datasets/Wine+Quality](https://archive.ics.uci.edu/dataset/186/wine+quality))
+- **Source**: [UCI Machine Learning Repository - Wine Quality](https://archive.ics.uci.edu/ml/datasets/Wine+Quality)
 - **File Used**: `winequality-white.csv`
 - **Attributes**: 11 physicochemical input variables (e.g. acidity, sugar, pH) + 1 output variable (quality score)
 ---
