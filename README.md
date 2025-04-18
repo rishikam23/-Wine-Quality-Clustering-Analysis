@@ -57,6 +57,11 @@ Results are saved in `wine_clustering_results.csv`.
 | MeanShift     | No Data Processing | 2        | 0.482      | 387               | 0.43           |
 | ...           | ...                | ...      | ...        | ...               | ...            |
 
+![image](https://github.com/user-attachments/assets/2648a6a5-3612-42fa-89e7-35a87059d1b9)
+![image](https://github.com/user-attachments/assets/15e02b07-850b-4e02-8bcf-8b06bf406cb5)
+![image](https://github.com/user-attachments/assets/2beeb435-2f94-4b52-9844-76603d66fa61)
+![image](https://github.com/user-attachments/assets/f7aa6134-5bdf-47f0-b59a-645ecaebebb5)
+
 ---
 
 ## Visualizations
